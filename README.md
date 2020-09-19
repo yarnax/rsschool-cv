@@ -1,1 +1,1 @@
-https://yarnax.github.io/rsschool-cv/
+https://yarnax.github.io/rsschool-cv/cv
