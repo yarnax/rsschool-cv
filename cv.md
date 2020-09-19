@@ -21,4 +21,4 @@ Im sorry, but im really had no serious code example right now :( maybe later it 
 - Ryazan State Radiotechnical university 2003-2008, radio electronic systems engineer
 
 ## English level ##
-- I passed EPAM test with B1 grade (I stuided it at school, university, but mostly in multiplayer games and youtube)
+- I passed EPAM test with B1 grade (I studied it at school, university, but mostly in multiplayer games and youtube)
