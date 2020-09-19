@@ -18,7 +18,7 @@ I always wanted to develop games. In my childhood these was some self-hand-drawn
 Im sorry, but im really had no serious code example right now :( maybe later it will be [here](https://github.com/yarnax)
 
 ## Education ##
-- Ryazan State Radiotechnical university 2003-2008, radio electronic systems
+- Ryazan State Radiotechnical university 2003-2008, radio electronic systems engineer
 
 ## English level ##
 - I passed EPAM test with B1 grade (I stuided it at school, university, but mostly in multiplayer games and youtube)
