@@ -1,0 +1,24 @@
+html {
+    font-size: 20px;
+}
+
+
+.maincv {
+    
+    width: 1024px;
+    background: rgb(234, 236, 236);
+    margin: auto;
+     
+
+}
+
+.header {
+    padding: 5px 10px 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.infoblock {
+    padding: 5px 10px 5px 10px;  
+}
